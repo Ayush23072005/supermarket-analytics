@@ -1,4 +1,4 @@
-# 🏪 SmartMart AI — Smart Supermarket Intelligence System
+# SmartMart AI — Smart Supermarket Intelligence System
 
 AI-Driven Inventory Management, Demand Forecasting & Customer Intelligence.
 
@@ -73,13 +73,13 @@ Go to http://localhost:5173
 - **Dynamic Pricing** — Stock/demand-based price suggestions
 
 ### Dashboard Panels
-- 📊 Overview — KPIs, revenue chart, alerts
-- 📦 Inventory — Stock levels, low-stock alerts, add products
-- 🛍️ Sales — Revenue trends, best sellers, category breakdown
-- 👥 Customers — Segments, RFM scatter, top customers, add customers
-- 📈 Forecast — Predicted vs actual demand per category
-- 🤖 Recommendations — Product suggestions, pricing intelligence
-- ⚠️ Anomalies — Detected sales pattern anomalies
+- Overview — KPIs, revenue chart, alerts
+- Inventory — Stock levels, low-stock alerts, add products
+- Sales — Revenue trends, best sellers, category breakdown
+- Customers — Segments, RFM scatter, top customers, add customers
+- Forecast — Predicted vs actual demand per category
+- Recommendations — Product suggestions, pricing intelligence
+- Anomalies — Detected sales pattern anomalies
 
 ### API Endpoints
 - `GET /api/dashboard/summary` — KPI summary
